@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 import java.util.Random;
 public class RockPaperScissors
 
-//Test 123
+//Test 12
 
 {
 	public static void main (String[] args) 
